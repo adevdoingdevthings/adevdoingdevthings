@@ -10,6 +10,9 @@
 <h3 align="center">What languages do you know?</h3>
 <p align="center">I am a Rust stan, but also like C++, C, HolyC, some very outdated Lua that I know, Python, and GDScript (most important language fr)</p>
 
+<h3 align="center">Do you have a website I may view?</h3>
+<p align="center">Yep! Just go to http://127.0.0.1:8080 /j</p>
+
 <hr style="border-top: 1px solid #FFFFFF;">
 
 [GitHub](https://github.com/adevdoingdevthings) |  [GitLab](https://gitlab.com/LandenHM)
