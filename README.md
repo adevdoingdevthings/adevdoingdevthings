@@ -1,5 +1,7 @@
 # Hey!!
+<div align="center">
 I'm adevdoingdevthings, better known as "Emberlyn" (or LandenHM)
+</div>
 ### Tell me about yourself.
 I am a 15 year old Canadian, I barely know anything about hardware, and a lot about software.
 ### What do you do?
