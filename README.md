@@ -7,4 +7,5 @@
 <h3 align="center">What languages do you know?</h3>
 <p align="center">I am a Rust stan, but also like C++, C, HolyC, some very outdated Lua that I know, Python, and GDScript (most important language fr)</p>
 <hr style="border-top: 1px solid #FFFFFF;">
+
 [GitHub](https://github.com/adevdoingdevthings) |  [GitLab](https://gitlab.com/LandenHM)
