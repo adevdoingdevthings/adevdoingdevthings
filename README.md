@@ -8,7 +8,7 @@
 <p align="center">I do not really develop under this name, don't expect much other than unprofessional and unorganized commits into my own unnamed repos.</p>
 
 <h3 align="center">🗺️ What languages do you know?</h3>
-<p align="center">I am a Rust stan, but also like C++, C, HolyC, some very outdated Lua that I know, Python, and GDScript (most important language fr)</p>
+<p align="center">My absolute favorite programming language is <strong>Rust</strong>. I also enjoy working with <strong>C++</strong>, <strong>C</strong>, <strong>HolyC</strong>, <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>GDScript</strong> which is definitely the most important one ;). If you consider them programming languages, I also know <strong>Bash</strong>, <strong>HTML</strong>, and <strong>CSS</strong>. My knowledge of <strong>Lua</strong> is very outdated from my old Roblox days around when I was 11, and likely not production-ready anymore. I've tried learning <strong>Java</strong> and <strong>Kotlin</strong> but found them quite annoying to work with. I'm currently considering learning <strong>TypeScript</strong>.</p>
 
 <h3 align="center">📜 What software licenses do you prefer?</h3>
 <p align="center">While I do not have a license on most of my repos <i>yet</i>, I am most likely going to put aside my hatrid of GNU since the licenses are quite good and make my software either <a href="https://www.gnu.org/licenses/gpl-3.0.html#license-text">GNU GPLv3</a>, <a href="https://www.gnu.org/licenses/agpl-3.0.html#license-text">GNU AGPL</a> or <a href="https://opensource.org/license/0bsd">BSD 0-Clause</a></p>
