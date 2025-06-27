@@ -1,5 +1,5 @@
 <h1 align="center">Hey!!</h1>
-<p align="center">I'm adevdoingdevthings, better known as "Emberlyn" (or LandenHM)</p>
+<p align="center">I'm adevdoingdevthings, better known as "Emberlyn" (or <a href="https://github.com/LandenHM/">LandenHM</a>)</p>
 
 <h3 align="center">🫵 Tell me about yourself.</h3>
 <p align="center">I am a 16 year old Canadian, I barely know anything about hardware, and a lot about software.</p>
