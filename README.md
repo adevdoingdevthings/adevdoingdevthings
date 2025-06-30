@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" height="50%" src="https://raw.githubusercontent.com/adevdoingdevthings/adevdoingdevthings/refs/heads/main/Profile.png"></p>
+<p align="center"><img width="25%" height="25%" src="https://raw.githubusercontent.com/adevdoingdevthings/adevdoingdevthings/refs/heads/main/Profile.png"></p>
 <h1 align="center">Hey!!</h1>
 <p align="center">I'm adevdoingdevthings, better known as "Emberlyn" (or <a href="https://github.com/LandenHM/">LandenHM</a>)</p>
 
