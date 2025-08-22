@@ -25,6 +25,6 @@
 <p align=center>
 <a href="https://github.com/adevdoingdevthings"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> 
 <a href="https://gitlab.com/LandenHM"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"></a>
-<a href="https://codeberg.org/"><img alt="Codeberg (Soon)" src="https://img.shields.io/badge/Codeberg-Soon-grey?style=flat-square&logo=Codeberg&logoColor=white&labelColor=2185D0"></a>
+<a href="https://codeberg.org/LandenHM"><img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white"></a>
 <a href="https://radicle.xyz/"><img alt="Radicle (Soon)" src="https://img.shields.io/badge/Radicle-Soon-grey?style=flat-square&logo=Alby&logoColor=white&labelColor=3333DD"></a>
 </p>
